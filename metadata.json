@@ -1,0 +1,6 @@
+{
+  "name": "ClipStream - YouTube Video & Audio Downloader",
+  "description": "Fast and free web tool to download YouTube videos, Shorts, audio MP3, subtitles, and HD thumbnails in 1080p, 720p, and MP3 format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
